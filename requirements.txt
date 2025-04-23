@@ -1,0 +1,10 @@
+autogen-agentchat
+autogen-ext[azure]
+python-dotenv
+pyautogen
+uvicorn
+langgraph
+langfuse
+langchain
+groq
+redis

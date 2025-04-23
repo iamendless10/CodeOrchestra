@@ -1,0 +1,100 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environments
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Python virtualenv metadata
+pip-log.txt
+pip-delete-this-directory.txt
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Environment variables
+.env
+.env.*
+
+# Data files
+*.csv
+*.tsv
+*.h5
+*.hdf5
+*.db
+*.sqlite3
+*.parquet
+*.pkl
+*.joblib
+*.npy
+*.npz
+
+# Model weights and checkpoints
+*.ckpt
+*.pth
+*.pt
+*.tflite
+*.pb
+*.onnx
+
+# Hugging Face transformers
+*.cache/
+**/.cache/
+.cache/
+huggingface/
+transformers_cache/
+
+# VSCode
+.vscode/
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Colab and Jupyter output
+*.out
+*.output
+
+# Streamlit and Gradio files
+.streamlit/
+__pycache__/
+logs/
+.gradio/
+
+# IPython history
+.history
+
+# PyCharm
+.idea/
+
+# Docker
+*.pid
+docker-compose.override.yml
+
+# MyPy
+.mypy_cache/
+
+# Testing
+htmlcov/
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+.cache
+.pytest_cache/
